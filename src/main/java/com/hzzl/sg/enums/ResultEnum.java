@@ -1,8 +1,12 @@
 package com.hzzl.sg.enums;
 
+
 /**
- * 异常状态枚举类
- */
+ * @Program: SG
+ * @Description: 异常状态枚举类
+ * @Author: MaQingFu
+ * @Date: 2018/7/27 15:36
+ **/
 public enum ResultEnum {
     UNKNOW_ERROR(-100, "未知错误！"),
     NEED_LOGIN(-1, "未登录！"),
